@@ -1,3 +1,4 @@
 This is my sample file
-This line is from feature1
-Hello from feature1
+
+This line combines changes from both feature1 and feature2.
+
