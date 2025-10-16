@@ -1,2 +1,2 @@
 This is my sample file
-This line is from feature1
+This line is from feature2
